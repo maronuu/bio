@@ -6,7 +6,7 @@ module.exports = {
             lang: "ja",
         }
     },
-    base: "/bio/",
+    // base: "/bio/",
     // dest: "docs",
     meta: [
         {charset: "utf-8"},
