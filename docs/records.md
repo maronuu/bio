@@ -6,10 +6,17 @@
 ## プログラミング言語
 >整備中
 ### Python
+- 機械学習
+- 競プロ
+- Django
 ### C++
+- 競プロ
 ### HTML/CSS
+- Progate
 ### JavaScript
+- ポートフォリオサイト作成(このサイト)
+    - Vuepressを主に使用
 ### SQL
+- 『SQL ゼロから始めるデータベース操作』(PostgreSQL)
 
 ## その他学習
-(未整備)
