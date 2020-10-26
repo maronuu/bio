@@ -15,7 +15,7 @@
 - Progate
 ### JavaScript
 - ポートフォリオサイト作成(このサイト)
-    - Vuepressを主に使用
+    - Vuepressを主に使用。[ソースコード](https://github.com/maronuu/bio)
 ### SQL
 - 『SQL ゼロから始めるデータベース操作』(PostgreSQL)
 
