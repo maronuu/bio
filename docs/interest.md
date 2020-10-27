@@ -11,7 +11,7 @@
 - [Kaggle](https://www.kaggle.com/yutarooguri)
 - [AtCoder](https://atcoder.jp/users/maronu)
 - [SIGNATE AI Edge Contest](https://signate.jp/competitions/285)
-    - 開発環境が整わずSubmitまで到達できていません(小声)
+
 <br>
 <br>
 ## 今後
