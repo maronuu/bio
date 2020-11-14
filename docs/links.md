@@ -3,9 +3,6 @@
 - [GitHub](https://github.com/maronuu)
 <br>
 
-- [Twitter](https://twitter.com/MaronuSub)
-<br>
-
 - [AtCoder](https://atcoder.jp/users/maronu)
 > 競技プログラミング
 - [Kaggle](https://www.kaggle.com/yutarooguri)
