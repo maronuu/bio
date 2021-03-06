@@ -17,8 +17,8 @@ module.exports = {
         nav: [
             { text: "Home", link: "/" },
             { text: "About me", link: "/about/" },
-            { text: "Records", link: "/records/" },
-            { text: "Interest", link: "/interest/" },
+            { text: "Skills", link: "/skills/" },
+            { text: "Activities", link: "/activities/" },
             { text: "Links", link: "/links/" },
             // { text: "GitHub", link: "https://github.com/maronuu"},
         ],
@@ -26,8 +26,8 @@ module.exports = {
             "/": [
                 "/",
                 "/about",
-                "/records",
-                "/interest",
+                "/skills",
+                "/activities",
                 "/links",
             ]
         }
