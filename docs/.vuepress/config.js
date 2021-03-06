@@ -1,6 +1,6 @@
 module.exports = {
     title: "Riguo",
-    description: "Student at The University of Tokyo",
+    description: "Undergraduate at The University of Tokyo",
     locales: {
         "/": {
             lang: "ja",
