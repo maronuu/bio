@@ -1,10 +1,11 @@
 # About me
 
 ## Education
-- 東京大学理科一類 在学
+- 2019.04 東京大学理科一類 入学
+- 現在 在学中
 
 ## Internship/Part-time (Technology-related)
-Not yet.
+
 
 ## Qualifications
 - TOEFL 92/120点 (2020/9/19)
