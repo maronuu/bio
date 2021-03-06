@@ -1,13 +1,11 @@
 # Activities
 
-<br>
-<br>
 ## In progress
-- [AtCoder](https://atcoder.jp/users/maronu)
-- [Kaggle](https://www.kaggle.com/yutarooguri)
+- 2020.05~ [AtCoder](https://atcoder.jp/users/maronu)
+- 2020.06~ [Kaggle](https://www.kaggle.com/yutarooguri)
 
 ## Past
-- 『パターン認識と機械学習』輪読会
+- 2020.09 ~ 2020.01 『パターン認識と機械学習』輪読会
 
 <br>
 <br>

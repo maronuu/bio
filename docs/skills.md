@@ -1,6 +1,6 @@
 # Skills
 
->整備中
+
 ### Python
 
 - 競プロ
