@@ -1,13 +1,10 @@
 # About me
 
-東京大学理科一類2年生です。[工学部計数工学科](https://www.keisu.t.u-tokyo.ac.jp/)への進学が内定しています。
-
-機械学習、プログラミング、数学、信号処理等を勉強しています。
-
-詳しくは[ Records ](/records/)及び[ Interest ](/interest/)をご覧ください。
+## Education
+- 東京大学理科一類 在学
 
 ## Internship/Part-time (Technology-related)
-
+Not yet.
 
 ## Qualifications
 - TOEFL 92/120点 (2020/9/19)

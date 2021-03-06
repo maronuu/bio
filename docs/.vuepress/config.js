@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Maronu",
+    title: "Riguo",
     description: "Student at The University of Tokyo",
     locales: {
         "/": {
@@ -13,13 +13,13 @@ module.exports = {
         {name: "viewport", content: "width=device-width, initial-scale=1"},
     ],
     themeConfig: {
-        logo: '/assets/img/logo.png',
+        logo: '/assets/img/logo-2.png',
         nav: [
             { text: "Home", link: "/" },
             { text: "About me", link: "/about/" },
             { text: "Records", link: "/records/" },
             { text: "Interest", link: "/interest/" },
-            { text: "Contact/Links", link: "/links/" },
+            { text: "Links", link: "/links/" },
             // { text: "GitHub", link: "https://github.com/maronuu"},
         ],
         sidebar: {
