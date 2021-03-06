@@ -6,8 +6,8 @@
 
 詳しくは[ Records ](/records/)及び[ Interest ](/interest/)をご覧ください。
 
-## Internship/Part-time
-> 未整備
+## Internship/Part-time (Technology-related)
+
 
 ## Qualifications
 - TOEFL 92/120点 (2020/9/19)

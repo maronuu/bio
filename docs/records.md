@@ -7,17 +7,11 @@
 >整備中
 ### Python
 - 機械学習
-    - Pytorch, Tensorflow, keras
-    - 書籍
-        - 『Deep Learning for Coders with fastai and PyTorch』
-        - 『PyTorchによる発展ディープラーニング』
-        - 『Kaggleで勝つデータ分析の技術』
+    - Pytorch, Tensorflow
     - Kaggle
 - 競プロ
-    - AtCoder緑(2020年10月現在)
+    - AtCoder緑(2021年3月現在)
     > [参考(chokudai氏のブログ)](http://chokudai.hatenablog.com/entry/2019/02/11/155904)
-- Django
-    - 学術書(情報・理工系分野メイン)について書評や難易度レビューを投稿できるコミュニティを作成中.
 ### C++
 - 競プロ
     - PythonメインですがたまにC++も使います。
@@ -40,8 +34,3 @@
 
 ### Docker
 
-## その他学習
-### 機械学習(理論)
-- 『ベイズ推論による機械学習入門 MLS シリーズ』
-    - PRMLに取り掛かる前に足がかりとして。
-### 数学
