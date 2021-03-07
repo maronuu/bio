@@ -5,7 +5,7 @@
 - 2020.06~ [Kaggle](https://www.kaggle.com/yutarooguri)
 
 ## Past
-- 2020.09 ~ 2020.01 『パターン認識と機械学習』輪読会 (詳細は[ブログ](https://riguo.hatenablog.com/entry/2021/03/03/040553))
+- 2020.09 ~ 2020.01 『パターン認識と機械学習』輪読会 ([詳細はこちら](https://riguo.hatenablog.com/entry/2021/03/03/040553))
 
 <br>
 <br>
