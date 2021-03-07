@@ -62,12 +62,13 @@ Beginner < Elementary < Intermediate < Upper intermediate < Advanced
 ### 数学
 - 理工系B2レベル
 - ベイズ統計
+- 数理最適化
 
 
 ## Natural Languages
 
-### 日本語 (ネイティブ)
-<br>
+### 日本語
+- 母国語
 
 ### 英語
 - Reading (Advanced)
