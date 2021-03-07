@@ -1,8 +1,8 @@
 # Skills
 
-(Lower) - Begginer - Elementary - Intermediate 
+(Lower) - Begginer - Elementary - Intermediate -
 
-- Upper intermediate - Advanced - Expert - (Higher)
+          Upper intermediate - Advanced - Expert - (Higher)
 
 ## Programming languages
 
@@ -47,17 +47,21 @@
 - 常用
 
 ### Git
--個人用途
+- 個人用途
 
 ### GitHub
--個人用途
+- 個人用途
 
 
 ## Fundamentals
 
 ### アルゴリズム・データ構造
+- 学部講義レベル
+
 ### ベイズ統計
+
 ### その他非数学専攻・理工系・B2レベルの数学
+
 
 ## Natural Languages
 

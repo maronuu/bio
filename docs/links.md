@@ -1,7 +1,9 @@
-# Contact/Links
-- E-mail: maron.meip.2000@gmail.com
+# Links
+
 - [GitHub](https://github.com/maronuu)
-- [ブログ](https://riguo.hatenablog.com/)
+
+- [個人ブログ(はてなブログ)](https://riguo.hatenablog.com/)
+
 - [AtCoder](https://atcoder.jp/users/maronu)
 > 競技プログラミング
 - [Kaggle](https://www.kaggle.com/yutarooguri)
