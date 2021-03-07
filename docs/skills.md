@@ -1,12 +1,10 @@
 # Skills
 
-- (Lower)
-- Beginner
-- Elementary
-- Intermediate
-- Upper intermediate
-- Advanced
-- (Higher)
+
+## Level descriptions
+ Beginner < Elementary < Intermediate
+< Upper intermediate < Advanced
+
 
 ## Programming languages
 
