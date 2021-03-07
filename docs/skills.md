@@ -1,8 +1,12 @@
 # Skills
 
-(Lower) - Begginer - Elementary - Intermediate -
-
-          Upper intermediate - Advanced - Expert - (Higher)
+- (Lower)
+- Beginner
+- Elementary
+- Intermediate
+- Upper intermediate
+- Advanced
+- (Higher)
 
 ## Programming languages
 
@@ -58,14 +62,15 @@
 ### アルゴリズム・データ構造
 - 学部講義レベル
 
-### ベイズ統計
-
-### その他非数学専攻・理工系・B2レベルの数学
+### 数学
+- 理工系B2レベル
+- ベイズ統計
 
 
 ## Natural Languages
 
 ### 日本語 (ネイティブ)
+<br>
 
 ### 英語
 - Reading (Advanced)
